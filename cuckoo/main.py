@@ -13,6 +13,7 @@ import sys
 
 import cuckoo
 
+
 from cuckoo.apps import (
     fetch_community, submit_tasks, process_tasks, process_task_range,
     cuckoo_rooter, cuckoo_api, cuckoo_distributed, cuckoo_distributed_instance,
